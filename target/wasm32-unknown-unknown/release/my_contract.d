@@ -1,0 +1,1 @@
+/home/dotin/Projects/near-contract-verifier/my-rust-contract/my-contract/target/wasm32-unknown-unknown/release/my_contract.wasm: /home/dotin/Projects/near-contract-verifier/my-rust-contract/my-contract/src/lib.rs
